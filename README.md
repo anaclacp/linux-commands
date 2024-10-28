@@ -4,7 +4,7 @@
 Seja bem-vindo ao nosso guia de comandos Linux. Aqui você encontrará os comandos mais úteis para o seu dia a dia.
 
 ## 🌺 Navegação e Organização
-Vamos começar com comandos para nos movimentar e organizar nossos arquivinhos:
+Vamos começar com comandos para nos movimentar e organizar nossos arquivos:
 
 ### Passeando pelos Diretórios
 - `pwd` - Mostra o caminho onde você está agora 
