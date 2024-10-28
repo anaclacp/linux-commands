@@ -1,7 +1,7 @@
 # 🌸 Guia Delicado de Comandos Linux 🌸
 
 ## 💖 Introdução
-Olá, querida! Seja bem-vinda ao nosso guia delicado de comandos Linux. Aqui você encontrará os comandos mais úteis para o seu dia a dia, explicados de uma forma suave e amigável.
+Seja bem-vindo ao nosso guia de comandos Linux. Aqui você encontrará os comandos mais úteis para o seu dia a dia.
 
 ## 🌺 Navegação e Organização
 Vamos começar com comandos para nos movimentar e organizar nossos arquivinhos:
